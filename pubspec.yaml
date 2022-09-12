@@ -26,21 +26,21 @@ flutter:
   fonts:
     - family: FontAwesomeBrands
       fonts:
-        - asset: lib/fonts/fa-brands-400.ttf
+        - asset: lib/fonts/Font-Awesome-6-Brands-Regular-400.otf
           weight: 400
     - family: FontAwesomeRegular
       fonts:
-        - asset: lib/fonts/fa-regular-400.ttf
+        - asset: lib/fonts/Font-Awesome-6-Pro-Regular-400.otf
           weight: 400
     - family: FontAwesomeSolid
       fonts:
-        - asset: lib/fonts/fa-solid-900.ttf
+        - asset: lib/fonts/Font-Awesome-6-Pro-Solid-900.otf
           weight: 900
-#    - family: FontAwesomeLight
-#      fonts:
-#        - asset: lib/fonts/fa-light-300.ttf
-#          weight: 300
-#    - family: FontAwesomeThin
-#      fonts:
-#        - asset: lib/fonts/fa-thin-100.ttf
-#          weight: 100
+    - family: FontAwesomeLight
+      fonts:
+        - asset: lib/fonts/Font-Awesome-6-Pro-Light-300.otf
+          weight: 300
+    - family: FontAwesomeThin
+      fonts:
+        - asset: lib/fonts/Font-Awesome-6-Pro-Thin-100.otf
+          weight: 100
